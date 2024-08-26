@@ -2,6 +2,8 @@
 
 This batch script is designed to automate the process of adding or removing specific text from the beginning or end of file names in a specified directory. It allows for flexible string manipulation to adjust file names according to your needs.
 
+## [DOWNLOAD](https://github.com/KSanders7070/Rename_File_Name_Prefix_Suffix/releases/latest/download/Rename_File_Name_Prefix_Suffix.bat)
+
 ## Features
 
 - **Add Prefix/Suffix**: You can add a specified string to the beginning or end of the file names.
